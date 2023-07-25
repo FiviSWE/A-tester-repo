@@ -16,3 +16,5 @@ print("What branch am I in right now?")
 
 
 var_3 = "Hi honey"
+var_4 = {"Car": 5, "Boat": 45, "Rocket": 99}
+print(var_4) 
